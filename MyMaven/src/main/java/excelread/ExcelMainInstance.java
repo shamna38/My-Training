@@ -11,7 +11,7 @@ public class ExcelMainInstance {
 		System.out.println(s);
 		String s1=object.readData(0, 0);
 		System.out.println(s1);
-System.out.println("display");
+System.out.println("error");
 	}
 
 }
